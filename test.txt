@@ -1,2 +1,6 @@
 milk
+<<<<<<< Updated upstream
 halib
+=======
+sugar
+>>>>>>> Stashed changes
